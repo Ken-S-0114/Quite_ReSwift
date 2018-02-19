@@ -1,0 +1,6 @@
+framework module Pods_Qiita_RxSwift {
+  umbrella header "Pods-Qiita_RxSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
